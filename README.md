@@ -1,3 +1,3 @@
 # play-ground
 
-*Just for play
+Just for play
